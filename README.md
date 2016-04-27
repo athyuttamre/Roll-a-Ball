@@ -1,4 +1,4 @@
-# Roll-a-Ball
+# Roll a Ball
 
 <img src="http://i.imgur.com/bKr1hBv.png?1">
 
